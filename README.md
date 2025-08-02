@@ -1,5 +1,7 @@
 # Placement Eligibility Streamlit Application
 
+🚀 Live Application: https://placementeligibility-app.streamlit.app/
+
 A comprehensive data-driven application for filtering and analyzing student placement readiness using interactive dashboards and advanced analytics.
 
 ## Project Overview
